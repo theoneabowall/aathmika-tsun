@@ -7,21 +7,18 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 ᴄʟɪᴄᴋ /more ᴛᴏ ꜱᴇᴇ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅꜱ.</b>"""
 
     ABOUT_TXT = """<b>🌝Mʏ Nᴀᴍᴇ🌝: {}
-📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/KOMBOTZZ'>『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a>
+📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/CURSED_LORD'>࿇ ���-��� ⌬</a>
 😎Lɪʙʀᴀʀʏ😎: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🌟Lᴀɴɢᴜᴀɢᴇ🌟: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 🗃️DᴀᴛᴀBᴀsᴇ🗃️: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-⚙️Bᴏᴛ Sᴇʀᴠᴇʀ⚙️: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
-___________👨‍💻ᴄʀᴇᴅɪᴛꜱ👨‍💻___________
-<a href='https://t.me/Master_broi'>𓄂℡𝗠𝞓𝗦᳅𝜩𝗥 ᠰ 𝙏𝗚 🕊️⃝🦋</a></b>
-<a href='https://github.com/CyberTG'>CyberTG</a></b>"""
+⚙️Bᴏᴛ Sᴇʀᴠᴇʀ⚙️: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/KINGOFMOVIES003">ʜᴇʀᴇ</a>
-- ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @KOM_LINKS
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/MOTIONFILMS">ʜᴇʀᴇ</a>
+- ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @MM_DISCUSSI0NS
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/LUTTAPPIxTG">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a></b>"""
+- <a href="https://t.me/CURSED_LORD">࿇ ���-��� ⌬</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -42,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/KOMBOTZZ)</code>
+<code>[Button Text](buttonurl:https://t.me/CURSED_LORD)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -165,9 +162,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷
-• ᴜꜱᴇʀɴᴀᴍᴇ : @LUTTAPPIxTG 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/LUTTAPPIxtg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ࿇ ���-��� ⌬
+• ᴜꜱᴇʀɴᴀᴍᴇ : @CURSED_LORD 
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/CURSED_LORD'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -220,7 +217,7 @@ Nᴀᴍᴇ - {}"""
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @KOMOFFICIAL 
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @KOMBOTZZ 
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @CURSED_LORD 
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -381,9 +378,9 @@ Group Support
     
 <b>❁🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят❁</b>
 <b>✯𝙅𝙊𝙄𝙉 :-⇊</b>
-<b>https://t.me/KOM_LINKS</b>
+<b>https://t.me/MM_DISCUSSI0NS</b>
 <b>✯𝙅𝙊𝙄𝙉 :-⇊</b>
-<b>https://t.me/KOMBOTZZ</b>
+<b>https://t.me/CURSED_LORD</b>
 <b>❁🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят❁</b>
 """
     

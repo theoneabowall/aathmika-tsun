@@ -245,7 +245,7 @@ async def start(client, message):
                 protect_content=True if pre == 'filep' else False,
                 reply_markup=InlineKeyboardMarkup(
                     [[                          
-                      InlineKeyboardButton("⚜️ᴋᴏᴍ ʟɪɴᴋꜱ⚜️", url='https://t.me/KOM_LINKS')
+                      InlineKeyboardButton("⚜️ᴍᴍ ʟɪɴᴋꜱ⚜️", url='https://t.me/MM_DISCUSSI0NS')
                     ]]
                 )
             )
